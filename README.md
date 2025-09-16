@@ -1,2 +1,3 @@
-# Practice-kube-prometheus-stack
-My kube-prometheus-stack practice repository
+# Практика работы с kube-prometheus-stack на базе k3d
+
+
